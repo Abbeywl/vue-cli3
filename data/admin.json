@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c87a2eee0fec66e78208afc"},"username":"admin","password":"admin123"}
+{"_id":{"$oid":"5c87a39de0fec66e78208afd"},"username":"admin","password":"admin123"}
+{"_id":{"$oid":"5c87a3b3e0fec66e78208afe"},"username":"wl","password":"wl123"}
+{"_id":{"$oid":"5c887c9cc59c78aca2c83d0e"},"username":"qwe","password":"qwe123","job":"前端"}
+{"_id":{"$oid":"5c887e82c59c78aca2c83d0f"},"username":"qwe","password":"qwe123","job":"前端","icon":"/img/avatar-0.jpg"}
